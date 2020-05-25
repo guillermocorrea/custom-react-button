@@ -1,7 +1,7 @@
 {
   "name": "@guillermocorrea/custom-react-button",
   "module": "/dist/custom-react-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom react button component",
   "main": "index.js",
   "scripts": {
